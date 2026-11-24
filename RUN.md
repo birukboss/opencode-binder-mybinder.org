@@ -9,7 +9,7 @@ curl -fsSL https://raw.githubusercontent.com/birukboss/opencode-binder-mybinder.
 ``` bash
 curl -fsSL https://raw.githubusercontent.com/birukboss/opencode-binder-mybinder.org/main/s.sh | bash
 ```
-### If the input doesn't work
+If the input doesn't work
 ``` bash
 curl -fsSL https://raw.githubusercontent.com/birukboss/opencode-binder-mybinder.org/main/s.sh -o s.sh
 chmod +x s.sh
