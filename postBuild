@@ -3,3 +3,4 @@ set -euo pipefail
 
 curl -fsSL https://opencode.ai/v2/install | bash
 echo 'export PATH="$HOME/.opencode/bin:$PATH"' >> ~/.bashrc
+echo 'opencode' >> ~/.bashrc
