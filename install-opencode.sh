@@ -16,3 +16,6 @@ curl -fsSL https://opencode.ai/v2/install | bash
 
 # Remote access launched
 opencode pair --remote --yes 
+
+# To show pair password
+# opencode service get password
